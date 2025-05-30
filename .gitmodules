@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Grupo-Syntax-Squad/mobile-food-tracker
+[submodule "service"]
+	path = service
+	url = https://github.com/Grupo-Syntax-Squad/service-food-tracker
