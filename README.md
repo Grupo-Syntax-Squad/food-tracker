@@ -1,4 +1,5 @@
-![Food-Tracker](https://github.com/user-attachments/assets/70c3909c-0f4b-4ef0-b20d-92b42cf6deb2)
+
+![Food-Tracker](https://github.com/user-attachments/assets/9a366a9e-8425-4854-98ea-b917e7e05c58)
 
 <span id="objective">
 
